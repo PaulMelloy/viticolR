@@ -55,7 +55,7 @@ test_that("plot weather works",{
 })
 
 test_that("plot weather filters by date",{
-  expect_no_condition(
+  expect_no_error(
     plot_weather(ntw,4,
                  date_min = as.POSIXct("2023-07-01"),
                  date_max = as.POSIXct("2023-08-30"))
