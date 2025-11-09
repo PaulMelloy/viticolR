@@ -13,7 +13,7 @@ Description: Mechanistic model which estimates Downy Mildew (Plasmopara viticola
  also estimates the infection process of the dispersed zoospores. Model translated
  from the scientific literature, Rossi et al. 2008, Ecological Modelling, 212, 
  p480-491.
-License: GPL (>= 3) + file LICENSE
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
@@ -31,7 +31,7 @@ Imports:
     ggplot2,
     Rdpack
 Depends: 
-    R (>= 4.0.1)
+    R (>= 4.1.0)
 LazyData: true
 RdMacros: Rdpack 
 Language: en-US
