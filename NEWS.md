@@ -1,5 +1,5 @@
 # viticolR 0.0.4
-  - patch to updated package dependacies  
+  - patch to updated package dependencies  
   - Change name of package from `viticolaR` to `viticolR`
   - Add summarising method function for `m_viticolR` objects
   - Add ggplot geom layers for plotting  
