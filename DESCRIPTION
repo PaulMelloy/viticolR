@@ -1,6 +1,6 @@
 Package: viticolR
 Title: Mechanistic Model To Simulate Downy Mildew Primary Infections In Grapevines
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: 
     person(given = "Paul",
            family = "Melloy",
